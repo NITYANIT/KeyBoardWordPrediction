@@ -14,7 +14,7 @@ The system combines:
 
 The project is implemented as a web application using **HTML, CSS and JavaScript**, with a Python implementation used to develop and test the prediction logic.
 
-🔗 **Live Demo:** https://keyboard-word-prediction.vercel.app/
+🔗 **Live Demo:** [https://keyboard-word-prediction.vercel.app/](https://key-board-word-prediction.vercel.app/)
 
 ---
 
